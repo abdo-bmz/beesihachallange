@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "42016165025",
+    "project_id": "beesiha-c6fbf",
+    "storage_bucket": "beesiha-c6fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42016165025:android:4403a2c047135cd6aaf4e0",
+        "android_client_info": {
+          "package_name": "com.example.beesihachallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42016165025-rishgdcf8i8kfbk1gt0dejtle8ia5b77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beesihachallenge",
+            "certificate_hash": "250808a0a154994c87ee1f2c97400d3040edb203"
+          }
+        },
+        {
+          "client_id": "42016165025-g397gj8ijsojesrvpggeiglnladiilq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBynQdU4772bLoPw0oSk1BhcE6pyFLGsNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42016165025-g397gj8ijsojesrvpggeiglnladiilq8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42016165025-eiuf7ir151b8c1k9fjro63hag7i58ogp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.beesihachallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
